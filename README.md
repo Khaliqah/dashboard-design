@@ -1,2 +1,2 @@
-# dashboard-design
+# dashboard
 Dashboard Design
